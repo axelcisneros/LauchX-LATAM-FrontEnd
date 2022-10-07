@@ -1,2 +1,2 @@
-# LaunchX-LATAM
-LauchX-LATAM
+# LauchX-LATAM-FrontEnd
+LauchX-LATAM-FrontEnd
